@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.main-header {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: #112D4E;
+    font-size: 4em;
+}
+.nav {
+    background-color: #91C8E4;
+}
+.navbar-ul {
+    padding: 0%;
+    margin: 0%;
+    list-style-type:none;
+    overflow: hidden;
+}
+
+.navbar-links {
+    display: block;
+    padding: 12px 14px;
+    background-color: #91C8E4;
+    float: left;
+    text-decoration: none;
+}
+.navbar-links:hover {
+    background-color: #749BC2;
+}
+
+.iletisim-kutusu {
+    text-align: center;
+    padding: 0px;
+    font-size: 1em;
+    text-decoration: none;
+    
+}
+.iletisim-baslik {
+    font-family: 'Pacifico', cursive, sans-serif;
+    font-size: 24px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background-color: #C13584;
+  }
+
+.iletisim-yazilar {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.urun-resmi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

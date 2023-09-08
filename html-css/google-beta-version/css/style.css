@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
+.google-logo {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.search-block {
+    background-color: #EEEEEE;
+    margin: 0px 100px 10px 100px;
+    padding: 0px;
+
+}
+
+.search {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+}
+
+.button {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+}
+
+.other-block{
+    margin: 0px 100px 0px 100px;
+}
+.content-block {
+    text-align: center;
+    margin-right: 1px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+    
+    
+}
+
+.kucuk-font {
+    font-size: 0.8em;
+}
